@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      port: 0
+  batch:
+    job:
+      enabled: false
